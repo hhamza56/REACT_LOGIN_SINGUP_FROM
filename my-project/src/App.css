@@ -1,0 +1,48 @@
+*{margin: 0px;
+padding: 0px;}
+
+
+.top{
+    background-color: cadetblue;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.singin{
+    color: white;
+    padding:10px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+
+
+.inputred{
+
+position: absolute;
+/* align-self: center; */
+display: flex;
+justify-content: center;
+
+}
+
+.input_div{
+    background-color: white;
+text-align: center;
+
+ 
+}
+.button_{background-color: black;
+color: white;}
+
+.hazma{background-color: white}
+
+
+
+
